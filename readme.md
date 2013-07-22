@@ -4,7 +4,7 @@ Ink is a tool for automating the process of incrementing version numbers, which 
 
 # Install
 
-`[sudo] npm install ink`
+`[sudo] npm install -g ink`
 
 # Use
 
