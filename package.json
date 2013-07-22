@@ -1,0 +1,19 @@
+{
+  "name": "ink",
+  "version": "0.0.1",
+  "description": "Automated versioning",
+  "main": "main.js",
+  "author": "Giles Lavelle",
+  "license": "MIT",
+  "dependencies": {
+    "semver": "*",
+    "prompt": "*"
+  },
+  "bin": {
+    "ink": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lavelle/ink.git"
+  }
+}
