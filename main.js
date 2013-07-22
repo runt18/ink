@@ -66,7 +66,7 @@ prompt.get(
     {
         properties: {
             number: {
-                pattern: /[1-3]/,
+                pattern: /^[1-3]$/,
                 message: 'Pick 1, 2 or 3',
                 required: true
             }
